@@ -1,5 +1,6 @@
 .idea/
 cmake-build-*/
+CMakeLists.txt
 
 # Ignore CMake-generated files
 CMakeFiles/
