@@ -1,0 +1,21 @@
+.idea/
+cmake-build-*/
+
+# Ignore CMake-generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+compile_commands.json
+
+# Otros archivos generados
+*.cbp
+*.user
+*.workspace
+*.layout
+*.log
+
+build-*/
+
+
